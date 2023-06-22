@@ -43,8 +43,8 @@ section {
 
 .blob-motion {
     position: fixed;
-    top:43%;
-    right: 0%;
+    top:45vh;
+    right: 0vw;
     transform: translateY(-20%);
     z-index: 0;
 }
@@ -52,4 +52,9 @@ section {
 
 .blob-content {
     z-index: 1;
+}
+
+label{
+    font-size: 70px;
+    font-weight: 600;
 }
