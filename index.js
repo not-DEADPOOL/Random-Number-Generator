@@ -1,5 +1,5 @@
 try {
-    var val = Number(window.prompt("How many maximum cifres will the number have?"));
+    var val = Number(window.prompt("How many maximum digits will the number have?"));
 }
 catch (error) {
     var val = 1;
