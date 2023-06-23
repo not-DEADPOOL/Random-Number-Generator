@@ -13,3 +13,6 @@ For now, you can triple-left-click on the number shuffling to highlight the labe
 
 ## So.. Is the zer0 included?
 Yes.. zero is a number so.. yes.
+
+## Where did you get those colorful *blobs* and *waves* designs?
+I generated them using a website called [Haikei](https://app.haikei.app/) by [z creative labs](https://zcreativelabs.com/), used for generating awesome web-designs like the one i used (actually pretty cool).
