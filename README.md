@@ -1,6 +1,6 @@
 
 # Random Number Generator
-A cool little  `HTML` page that generates a random number using Math.Random() from JavaScript.
+A cool little  `HTML` [page](https://not-deadpool.github.io/Random-Number-Generator/) that generates a random number using Math.Random() from JavaScript.
 
 ## Maximum digits
  When opening the page, It'll ask you how many maximum digits the numbers are going to have. For example, if you type 4, the generated numbers'll be between 0 - 9999.
